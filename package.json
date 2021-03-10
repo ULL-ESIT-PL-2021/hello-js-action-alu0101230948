@@ -1,0 +1,24 @@
+{
+  "name": "hello-js-action-alu0101230948",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-PL-2021/hello-js-action-alu0101230948.git"
+  },
+  "keywords": [],
+  "author": "Viren Sajju Dhanwani Dhanwani <alu0101230948@ull.edu.es> (https://github.com/alu0101230948)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-alu0101230948/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-alu0101230948#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0"
+  }
+}
