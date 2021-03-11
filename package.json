@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ULL-ESIT-PL-2021/hello-js-action-alu0101230948.git"
   },
-  "keywords": [],
+  "keywords": ["ULL", "Procesadores de Lenguajes", "GitHub Actions"],
   "author": "Viren Sajju Dhanwani Dhanwani <alu0101230948@ull.edu.es> (https://github.com/alu0101230948)",
   "license": "MIT",
   "bugs": {
